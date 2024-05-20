@@ -1,0 +1,4 @@
+password
+full 
+name
+email
